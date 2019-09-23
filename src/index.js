@@ -23,8 +23,8 @@ class App extends React.Component {
       },
       {
         key: 3,
-        name: "cuntry",
-        label: "country",
+        name: "country",
+        label: "Country",
         type: "DropDown",
         values: ["India", "US"]
       },
